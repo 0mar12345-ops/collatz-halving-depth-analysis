@@ -26,3 +26,7 @@ All data is generated programmatically for integers:
 ## Notes
 
 Results match those reported in the paper, with minor rounding differences.
+
+## Reproducibility
+
+Running the scripts will regenerate all figures and results reported in the paper.
