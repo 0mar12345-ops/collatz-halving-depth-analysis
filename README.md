@@ -10,7 +10,7 @@ This repository contains the Python code used in the paper:
   Generates Table 1 and Figures 1–2 (parity-based analysis)
 
 - halving_depth_analysis.py  
-  Generates Figures 3–4 and regression results (halving depth analysis)
+  Generates Figures 3–4 and statistical analysis (halving depth analysis)
 
 ## Data
 
