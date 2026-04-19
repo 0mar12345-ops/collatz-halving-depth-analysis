@@ -1,5 +1,9 @@
 # Collatz Halving Depth Analysis
 
+## Paper
+
+[Download the full paper](Exploratory Analysis of Arithmetic Structure in Collatz Trajectories Final.pdf)
+
 This repository contains the Python code used in the paper:
 
 "Structural Drivers of Growth in Collatz Trajectories: A Quantitative Analysis of Halving Depth and Volatility"
